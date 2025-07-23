@@ -1,0 +1,22 @@
+.red-line {
+    color: black;
+    background-color: red;
+    font-size: 18px;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.larger-font {
+    font-size: 24px;
+}
+
+#number-4 {
+    color: black;
+    background-color: green;
+    font-size: 24px;
+    font-weight: 700;
+}
